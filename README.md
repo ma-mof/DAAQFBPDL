@@ -5,3 +5,11 @@ This thesis investigates the development and validation of an autonomous multiro
 
 Keywords: Autonomous flight, visual processing, quadcopter, Nvidia Jetson Nano, ArduPilot, ResNet
 
+
+<img width="678" height="999" alt="image" src="https://github.com/user-attachments/assets/1dd4d79e-fe60-404c-a495-0f8690d5e61b" />
+
+Procedura – faza 3.
+
+<img width="927" height="524" alt="image" src="https://github.com/user-attachments/assets/4436f751-c8b1-4d65-8676-d7cd13624698" />
+
+Eksperimentalni let, faza 3., graf
